@@ -1,0 +1,25 @@
+table, td, th {
+    border: 5px dotted blue;
+}
+
+th{
+    color: azure !important;
+    background-color: rgb(20, 20, 20) !important;
+}
+  
+table {
+    width: 100%;
+    border-collapse: collapse;
+}
+
+.btn-ungu {
+    border: 5px solid #69247C;
+    color: azure;
+    background-color: #69247C;
+}
+
+.btn-ungu:hover {
+    border: 5px solid #DA498D;
+    color: azure;
+    background-color: #DA498D;
+}
